@@ -7,6 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Резюме Кравченко Кирилла</title>
     <style>
+        h1, h2 {
+    text-align: center;
+    margin-top: 0;
+}
         * {
     margin: 0;
     padding: 0;
@@ -20,7 +24,7 @@
             color: #fff;
         }
         .math-background {
-    position: fixed; /* изменено */
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
