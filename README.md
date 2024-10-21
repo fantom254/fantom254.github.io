@@ -19,7 +19,16 @@
             background: linear-gradient(135deg, #8e44ad, #3498db);
             color: #fff;
         }
-
+        .math-background {
+    position: fixed; /* изменено */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('https://www.itl.cat/pngfile/big/211-2110297_background-math-wallpapers-math-background-hd.jpg');
+    opacity: 0.1;
+    z-index: -1;
+}
         .container {
             max-width: 800px;
             margin: 50px auto;
